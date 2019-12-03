@@ -79,6 +79,7 @@ Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/d
 ### Serviços
 
 Services: API https://hotel-booking.k8s-ti-cvc.com.br
+
 Paginada https://hotel-booking.k8s-ti-cvc.com.br/v1/bookings?page=0&size=10
 
 # axios
