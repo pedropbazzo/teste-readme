@@ -68,3 +68,9 @@ Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/d
 Esta seção foi movida para aqui: https://facebook.github.io/create-react-app/docs/trou Troubleshooting#npm-run-build-fails-to-minify
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWDlBCCDgjfEq7L6LBIotiqLozoifiLmB6WrbTNzAwLG2sj425&s" width="400px">
+
+Mockups: Desenvolvidos por Andrea Borba { UX } (CVC - Corp)
+
+disponivel no figma pelo link: https://www.figma.com/file/DyCDY3ouC9Q7ZjGGWMLJXo/B2B---BackOffice---Hotel?node-id=1385%3A0
+
+
