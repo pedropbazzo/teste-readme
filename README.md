@@ -267,8 +267,6 @@ axios({
 // Enviar um pedido GET (método padrão)
 axios('/usuário/1
 
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
-
 
 
 
